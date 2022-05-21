@@ -1,0 +1,13 @@
+{
+  "name": "createBlock",
+  "version": "1.0.0",
+  "license": "howdyfrom2019",
+  "scripts": {
+    "start": "serve",
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.35",
+    "typescript": "^4.6.4"
+  }
+}
